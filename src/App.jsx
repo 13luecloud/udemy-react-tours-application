@@ -1,5 +1,5 @@
-import Tours from "./components/Tours"
 import './index.css'
+import Tours from './components/Tours'
 
 function App() {
 
