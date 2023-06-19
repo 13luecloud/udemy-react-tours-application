@@ -1,4 +1,4 @@
-import './index.css'
+
 import Tours from './components/Tours'
 
 function App() {
