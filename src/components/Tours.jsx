@@ -54,7 +54,6 @@ const Tours = () => {
                 </div>
             </section>
         </main>
-        
     )
 }
 
