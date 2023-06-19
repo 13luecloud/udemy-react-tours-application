@@ -1,7 +1,10 @@
+import Tours from "./components/Tours"
+import './index.css'
+
 function App() {
 
   return (
-   <h1> Setup </h1>
+   <Tours />
   )
 }
 
