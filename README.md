@@ -2,7 +2,7 @@
 
 ### **Description**
 
-A tour list application that lets the user remove uninteresting tour packages and refresh the list to its initial state when the list is empty.
+A tour list application that lets the user remove uninteresting tour packages and refresh the list to its initial state when the list is empty. (see: https://tranquil-alfajores-ebb5a1.netlify.app/)
 
 ### **Project Source**
 
